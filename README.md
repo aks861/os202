@@ -5,5 +5,3 @@
 [My Log](https://aks861.github.io/os202/TXT/mylog.txt)
 
 ---
-OS Weekly Top 10 List
-TBA
