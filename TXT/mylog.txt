@@ -5,6 +5,17 @@
 ZCZC W00 40 L99 watch youtube
 ZCZC W00 10 L03 Create os202 repository
 ZCZC W00 100 L04 Create github page
+ZCZC W00 60 L02 ZOOM meeting
 ZCZC W00 60 L04 Fix github page
 ZCZC W00 10 L05 Searching about markdown language
 ZCZC W00 120 L06 Reading OSC Book
+ZCZC W01 90 L02 Zoom meeting
+ZCZC W01 60 L21 Install virtual box, debian, putty, etc
+ZCZC W01 15 L11 Create a debian virtual guest osp
+ZCZC W01 60 L13 Create a new user account with my github account name aks861
+ZCZC W01 30 L14 Create a tunnel via kawung
+ZCZC W01 15 L15 Copy extra/Doc and extra/Slides from badak
+ZCZC W01 10 L16 git pull my os202 repository
+ZCZC W01 15 L12 learn using vi while updating mylog.txt
+ZCZC W01 15 L17 Update and push mylog.txt
+
