@@ -19,3 +19,4 @@ ZCZC W01 10 L16 git pull my os202 repository
 ZCZC W01 15 L12 learn using vi while updating mylog.txt
 ZCZC W01 15 L17 Update and push mylog.txt
 ZCZC W01 30 L15 Copy extra/Demos from badak
+ZCZC W01 15 L18 Create w00.md and w01.md file, text later
