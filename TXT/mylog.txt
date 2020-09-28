@@ -13,6 +13,7 @@ ZCZC W01 90 L02 Zoom meeting
 ZCZC W01 60 L21 Install virtual box, debian, putty, etc
 ZCZC W01 15 L11 Create a debian virtual guest osp
 ZCZC W01 60 L13 Create a new user account with my github account name aks861
+ZCZC W01 60 L12 Using bash command 
 ZCZC W01 60 L14 Create a tunnel via kawung
 ZCZC W01 15 L15 Copy extra/Docs and extra/Slides from badak
 ZCZC W01 10 L16 git pull my os202 repository
@@ -20,3 +21,6 @@ ZCZC W01 15 L12 learn using vi while updating mylog.txt
 ZCZC W01 15 L17 Update and push mylog.txt
 ZCZC W01 30 L15 Copy extra/Demos from badak
 ZCZC W01 15 L18 Create w00.md and w01.md file, text later
+ZCZC W01 60 L19 Read OSC book
+ZCZC W01 90 L05 GSGS related to this week topic
+ZCZC w01 30 L18 fill the top 10 list
