@@ -23,3 +23,12 @@ ZCZC W01 30 L15 Copy extra/Demos from badak
 ZCZC W01 15 L18 Create w00.md and w01.md file, text later
 ZCZC W01 60 L19 Read OSC book
 ZCZC W01 90 L05 GSGS related to this week topic
+ZCZC W01 30 L18 fill the top 10 list
+ZCZC W02 15 L12 Generate a GnuPG key pair
+ZCZC W02 30 L13 Import OS Public key ospubkey.txt
+ZCZC W02 15 L14 Export mypubkey.txt
+ZCZC W02 30 L15 Create myrank.txt and review closest neighbour 5 up and 5 down
+ZCZC W02 15 L17 Create myscript.sh
+ZCZC W02 20 L18 Update mylog.txt
+ZCZC W02 30 L19 Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W02 60 L03 Fix git conflict
