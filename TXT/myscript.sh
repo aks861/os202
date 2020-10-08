@@ -1,7 +1,7 @@
 #!/bin/bash
 # aks861
-
-FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
+# updated on 8 october
+FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
 rm -f $SHA $SHA.asc
@@ -18,4 +18,4 @@ gpg -o $SHA.asc -a -sb $SHA
 echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
-exit 0
+exit 0 	
