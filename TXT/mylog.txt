@@ -38,5 +38,14 @@ ZCZC W02 60 L05 GSGS related to this week topic
 ZCZC W02 60 L16 Make a top 10 list for week 2
 ZCZC W03 90 L02 Zoom meeting
 ZCZC W03 10 L13 Update my .bash_aliases
-ZCZC W03 15 L16 Create myW03token.txt
+ZCZC W03 15 L16 Create myW03token.txt and put the result of chktoken
 ZCZC W03 30 L17 Dowload TLPI code and write disk usage to myW03disk.txt
+ZCZC W03 10 L19 Update myscript.sh
+ZCZC W03 15 L14 Review my neighbours top 10 list put it in myrank.txt
+ZCZC W03 35 L12 Trying week 3 demo
+ZCZC W03 30 L07 Trying week 2 demo
+ZCZC W03 120 L11 Read OSC book related to this week topic
+ZCZC W03 60 L05 GSGS related to this week topic
+ZCZC W03 45 L15 Create week 3 top 10 list
+ZCZC W03 15 L18 Update mylog.txt
+ZCZC W03 5 L20 Make SHA256SUM and sign it as SHA256SUM.asc
