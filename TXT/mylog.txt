@@ -49,3 +49,5 @@ ZCZC W03 60 L05 GSGS related to this week topic
 ZCZC W03 45 L15 Create week 3 top 10 list
 ZCZC W03 15 L18 Update mylog.txt
 ZCZC W03 5 L20 Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W04 10 L15 run chktoken NEWHOPE and put the result into myW04token.txt
+ZCZC W04 45 L16 download https://os.vlsm.org/WEEK/W04.tar.bz2.asc and write the result into myW04.txt
