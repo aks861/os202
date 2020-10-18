@@ -1,9 +1,12 @@
 #!/bin/bash
 # aks861
 # updated on 8 october
+# updated again on 18 october
+
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
+echo "rm -f $SHA $SHA.asc"
 rm -f $SHA $SHA.asc
 
 echo "sha256sum $FILES > $SHA"
@@ -18,4 +21,4 @@ gpg -o $SHA.asc -a -sb $SHA
 echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
-exit 0 	
+exit 0
