@@ -64,5 +64,11 @@ ZCZC W04 5 L19 Make SHA256SUM and sign it as SHA256SUM.asc
 ZCZC W05 80 L02 Zoom meeting
 ZCZC W05 5 L15 Run chktoken 12345 and write the result into myW05token.txt
 ZCZC W05 20 L16 Download https://os.vlsm.org/WEEK/W05.tar.bz2.asc and write the result into my204.txt
-ZCZC W05 20 L13 myrank.txt
+ZCZC W05 20 L13 Update myrank.txt
+ZCZC W05 90 L11 Read OSC10 chapter 10
+ZCZC W05 10 L12 Update my virtual guest
+ZCZC W05 90 L14 Create week 5 top 10 list
+ZCZC W05 15 L17 Update mylog.txt
+ZCZC W05 5 L18 Update bash script
+ZCZC W05 5 L19 Make SHA256SUM and sign it as SHA256SUM.asc
 
