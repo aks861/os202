@@ -71,10 +71,17 @@ ZCZC W05 90 L14 Create week 5 top 10 list
 ZCZC W05 15 L17 Update mylog.txt
 ZCZC W05 5 L18 Update bash script
 ZCZC W05 5 L19 Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W06 90 L02 Zoom meeting
 ZCZC W06 5 L12 Update virtual guest
 ZCZC W06 5 L15 Run chktoken JOLANTRU and put it in the myW06token.txt
 ZCZC W06 60 L07 Trying week 6 demo
 ZCZC W06 90 L16 Download https://os.vlsm.org/WEEK/W06.tar.bz2.asc and write the result into TXT/myW06.txt.
 ZCZC W06 10 L20 Do make clean the W06 folder and tar it back
-ZCZC W06 10 L20 GnuPG encrypt (armor) to myW06.tar.bz2.txt.
+ZCZC W06 10 L20 GnuPG encrypt (armor) to myW06.tar.bz2.txt
+ZCZC W06 120 L11 Read OSC Book chapter 3 and 4
+ZCZC W06 15 L13 Update myrank.txt
+ZCZC W06 90 L14 Create week 6 top 10 list 
+ZCZC W06 15 L17 Update mylog.txt
+ZCZC W06 5 L18 Update bash script
+ZCZC W06 5 L19 Make SHA256SUM and sign it as SHA256SUM.asc
 
