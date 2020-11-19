@@ -84,4 +84,11 @@ ZCZC W06 90 L14 Create week 6 top 10 list
 ZCZC W06 15 L17 Update mylog.txt
 ZCZC W06 5 L18 Update bash script
 ZCZC W06 5 L19 Make SHA256SUM and sign it as SHA256SUM.asc
-
+ZCZC W07 90 L02 Zoom meeting
+ZCZC W07 5 L13 Update virtual guest
+ZCZC W07 15 L14 Update myrank.txt
+ZCZC W07 5 L16 Run chktoken TFAWAKENS and put it in the myW07token.txt
+ZCZC W07 30 L07 Trying week 7 demo
+ZCZC W07 60 L17 Download https://os.vlsm.org/WEEK/W07.tar.bz2.asc and do the assignment
+ZCZC W07 10 L20 Do make clean MY W07/ folder and tar it back into myW07.tar.bz2
+ZCZC W07 5 L20 GnuPG encrypt (armor) to myW07.tar.bz2.txt
