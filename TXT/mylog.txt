@@ -92,3 +92,8 @@ ZCZC W07 30 L07 Trying week 7 demo
 ZCZC W07 60 L17 Download https://os.vlsm.org/WEEK/W07.tar.bz2.asc and do the assignment
 ZCZC W07 10 L20 Do make clean MY W07/ folder and tar it back into myW07.tar.bz2
 ZCZC W07 5 L20 GnuPG encrypt (armor) to myW07.tar.bz2.txt
+ZCZC W07 90 L12 Read OSC book chapter 6, 7, and 8
+ZCZC W07 60 L15 Create week 7 top ten list
+ZCZC W07 10 L18 Update mylog.txt
+ZCZC W07 5 L19 Update bash script
+ZCZC W07 5 L20 Make SHA256SUM  and sign it as SHA256SUM.asc
