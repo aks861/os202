@@ -97,3 +97,12 @@ ZCZC W07 60 L15 Create week 7 top ten list
 ZCZC W07 10 L18 Update mylog.txt
 ZCZC W07 5 L19 Update bash script
 ZCZC W07 5 L20 Make SHA256SUM  and sign it as SHA256SUM.asc
+ZCZC W08 60 L02 Zoom meeting
+ZCZC W08 120 L12 Read OSC chapter 5
+ZCZC W08 5 L13 Update my virtual guest
+ZCZC W08 25 L14 Update myrank.txt
+ZCZC W08 90 L15 Create week 8 top 10 list
+ZCZC W08 5 L16 Run chktoken LINUXFROMSCRATCH and put it in the myW08token.txt
+ZCZC W08 15 L17 Update mylog.txt
+ZCZC W08 5 L18 Update bash script
+ZCZC W08 5 L19 Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc.
