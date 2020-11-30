@@ -106,3 +106,6 @@ ZCZC W08 5 L16 Run chktoken LINUXFROMSCRATCH and put it in the myW08token.txt
 ZCZC W08 15 L17 Update mylog.txt
 ZCZC W08 5 L18 Update bash script
 ZCZC W08 5 L19 Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc.
+ZCZC W08 180 L10 Do LFS assignment
+ZCZC W08 30 L20 Place the assignment result into W08/ folder and tar it into myW08.tar.bz2.
+ZCZC W08 10 L20 GnuPG encrypt (armor) to myW08.tar.bz2.txt.
